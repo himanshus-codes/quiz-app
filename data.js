@@ -1,4 +1,4 @@
-//  use this quizData in your app.
+
 export const quizData = [{
     "question": "Which language runs in a web browser?",
     "a": "Java",
@@ -31,5 +31,5 @@ export const quizData = [{
     "d": "none of the above",
     "correct": "b",
 },
-// you can add more quiz here
+
 ]
